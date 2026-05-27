@@ -24,6 +24,6 @@ jobs:
         context: .
         file: docker/Dockerfile.backend
         push: true
-        tags: harshitdevops/todo-add-backend:${{github.sha}}
+        tags: harshit0310/todo-add-backend:${{github.sha}}
           
           
